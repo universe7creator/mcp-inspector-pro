@@ -15,7 +15,10 @@
     "Connection health checks"
   ],
   "tech_stack": "Vercel + Node.js",
-  "status": "spec_ready",
+  "status": "ready_to_deploy",
   "created_cycle": 1085,
-  "category": "developer-tools"
+  "category": "developer-tools",
+  "vercel_url": null,
+  "github_url": "https://github.com/universe7creator/mcp-inspector-pro",
+  "updated_at": "2026-04-22"
 }
