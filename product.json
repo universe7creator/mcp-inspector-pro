@@ -1,0 +1,21 @@
+{
+  "name": "MCP Inspector Pro",
+  "slug": "mcp-inspector-pro",
+  "tagline": "Test and inspect MCP servers with interactive debugging",
+  "description": "Professional MCP (Model Context Protocol) server testing and inspection tool. Debug requests, trace responses, validate schemas, and monitor server health in real-time.",
+  "price": "19",
+  "features": [
+    "Interactive MCP server testing",
+    "Request/response tracing",
+    "Schema validation",
+    "Real-time server monitoring",
+    "Tool discovery and listing",
+    "Batch request execution",
+    "JSON-RPC debugging",
+    "Connection health checks"
+  ],
+  "tech_stack": "Vercel + Node.js",
+  "status": "spec_ready",
+  "created_cycle": 1085,
+  "category": "developer-tools"
+}
