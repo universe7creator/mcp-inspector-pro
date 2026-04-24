@@ -7,8 +7,5 @@
   "scripts": {
     "vercel-build": "echo 'Build complete'"
   },
-  "dependencies": {},
-  "engines": {
-    "node": "24.x"
-  }
+  "dependencies": {}
 }
